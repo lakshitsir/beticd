@@ -1,7 +1,7 @@
 {
+  "name": "overlord-bypass",
+  "version": "5.0.0",
   "dependencies": {
-    "yt-dlp-exec": "^1.0.2",
-    "axios": "^1.6.8",
-    "https-proxy-agent": "^7.0.4"
+    "axios": "^1.6.8"
   }
 }
